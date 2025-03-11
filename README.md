@@ -6,8 +6,7 @@
 
 ## 🚀 Tecnologías
 
-🔹 Frontend: `React`, `Vue`, `HTML`, `CSS`, `JavaScript`  
-🔹 Backend: `Node.js`, `Django`, `Spring Boot`  
+🔹 Frontend: `HTML`, `CSS`,     
 🔹 Bases de datos: `MySQL`, `PostgreSQL`, `MongoDB`  
 🔹 Herramientas: `Git`, `Docker`, `CI/CD`, `Jenkins`
 
@@ -15,10 +14,9 @@
 
 ## 💻 Lenguajes
 
-- Python 🐍
-- Java ☕
-- JavaScript ⚡
-- C++ 🔵
+- Html
+- CSS
+
 
 ---
 
