@@ -4,19 +4,12 @@
 
 ---
 
-## 🚀 Tecnologías
+## 🚀 Tecnologías y Herramientas
 
-🔹 Frontend: `HTML`, `CSS`,     
-🔹 Bases de datos: `MySQL`, `PostgreSQL`, `MongoDB`  
-🔹 Herramientas: `Git`, `Docker`, `CI/CD`, `Jenkins`
-
----
-
-## 💻 Lenguajes
-
-- Html
-- CSS
-
+🖥️ `React` | 🎨 `Vue` | 🌐 `HTML` | 🎨 `CSS` | ⚡ `JavaScript`    
+🗄️ `MySQL` | 🏛️ `PostgreSQL` | 🍃 `MongoDB`  
+🐧 `Linux` | 🪟 `Windows`  
+🔧 `Git` | 🐳 `Docker` | 🔄 `CI/CD` | 
 
 ---
 
@@ -31,6 +24,12 @@
 
 Puedes ver mi currículum completo aquí: [CV_FERNANDO_NUNEZ_CARRETERO.pdf](./CV_FERNANDO%20NUNEZ%20CARRETERO.pdf)
 
+---
+
+### 📫 Contacto
+- 📧 Email: [fernando.nunez.carretero@gmail.com](mailto:fernando.nunez.carretero@gmail.com)
+- 📍 Ubicación: Quijorna, Madrid
+- 📞 Teléfono: 669 113 178
 ---
 
 ### 📫 Contacto
