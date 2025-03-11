@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Sobre mí
 
-<!--
-**Fnunecar/Fnunecar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Fernando Núñez Carretero, un apasionado del desarrollo de software con interés en la administración de sistemas informáticos en red. Me encanta aprender nuevas tecnologías y contribuir a proyectos innovadores.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías
+
+🔹 Frontend: `React`, `Vue`, `HTML`, `CSS`, `JavaScript`  
+🔹 Backend: `Node.js`, `Django`, `Spring Boot`  
+🔹 Bases de datos: `MySQL`, `PostgreSQL`, `MongoDB`  
+🔹 Herramientas: `Git`, `Docker`, `CI/CD`, `Jenkins`
+
+---
+
+## 💻 Lenguajes
+
+- Python 🐍
+- Java ☕
+- JavaScript ⚡
+- C++ 🔵
+
+---
+
+## 🌍 Idiomas
+
+- Español (Nativo) 🇪🇸
+- Inglés (Nivel medio hablado y escrito) 🇬🇧
+
+---
+
+## 📄 CV
+
+Puedes ver mi currículum completo aquí: [CV_FERNANDO_NUNEZ_CARRETERO.pdf](./CV_FERNANDO%20NUNEZ%20CARRETERO.pdf)
+
+---
+
+### 📫 Contacto
+- 📧 Email: [fernando.nunez.carretero@gmail.com](mailto:fernando.nunez.carretero@gmail.com)
+- 📍 Ubicación: Quijorna, Madrid
+- 📞 Teléfono: 669 113 178
