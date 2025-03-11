@@ -6,10 +6,13 @@
 
 ## 🚀 Tecnologías y Herramientas
 
-🖥️ `React` | 🎨 `Vue` | 🌐 `HTML` | 🎨 `CSS` | ⚡ `JavaScript`    
-🗄️ `MySQL` | 🏛️ `PostgreSQL` | 🍃 `MongoDB`  
-🐧 `Linux` | 🪟 `Windows`  
-🔧 `Git` | 🐳 `Docker` | 🔄 `CI/CD` | 
+🌐 HTML
+🎨 CSS 
+⚡ JavaScript    
+🗄️ MySQL
+🍃 MongoDB  
+🐧 Linux 
+🪟 Windows   
 
 ---
 
