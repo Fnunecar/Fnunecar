@@ -34,8 +34,3 @@ Puedes ver mi currículum completo aquí: [CV_FERNANDO_NUNEZ_CARRETERO.pdf](./CV
 - 📍 Ubicación: Quijorna, Madrid
 - 📞 Teléfono: 669 113 178
 ---
-
-### 📫 Contacto
-- 📧 Email: [fernando.nunez.carretero@gmail.com](mailto:fernando.nunez.carretero@gmail.com)
-- 📍 Ubicación: Quijorna, Madrid
-- 📞 Teléfono: 669 113 178
